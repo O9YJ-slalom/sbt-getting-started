@@ -2,9 +2,9 @@ import com.typesafe.sbt.packager.docker.ExecCmd
 
 name := "sbt-getting-started"
 
-ThisBuild / version := "1.0"
+ThisBuild / version := "1.5.8"
 
-scalaVersion := "2.12.8"
+scalaVersion := "2.12.14"
 
 ThisBuild / licenses ++= Seq(("MIT", url("http://opensource.org/licenses/MIT")))
 
